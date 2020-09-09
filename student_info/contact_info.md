@@ -11,7 +11,6 @@
 - Lindsey Lopez
   - Email: snapitlindsey@gmail.com
   - github: carlosantos11
-  Hanan zegeye
-  hananassefa2016@gmail.com
-  Hananzegeye
-  
+- Hanan zegeye
+  - hananassefa2016@gmail.com
+  - Hananzegeye
