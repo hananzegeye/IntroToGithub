@@ -15,3 +15,6 @@ Motivation:
   
   
  
+I am here to learn how to programing and to craete a websites.
+my goal is for today to leran html and css. 
+my main motivation is that i have an interste to learn a new things.
